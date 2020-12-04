@@ -2,7 +2,7 @@
 
 This project demonstrates how to fully automate software localization using [Localazy](https://localazy) and [Bitrise](https://bitrise.io). 
 
-You can read [detailed blog post about how to setup automated localization for your project](https://localazy/blog/automated-localization-bitrise-localazy).
+You can read [detailed blog post about how to setup automated localization for your project](https://localazy.com/blog/automated-localization-bitrise-localazy).
 
 ---
 
@@ -26,7 +26,7 @@ And as a bonus, **Localazy can translate your app to up to 80 languages for free
 
 ---
 
-**[Read more in the blog post](https://localazy/blog/automated-localization-bitrise-localazy)**:
+**[Read more in the blog post](https://localazy.con/blog/automated-localization-bitrise-localazy)**:
 
 - How to set up project with Localazy as a localization solution
 
